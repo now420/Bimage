@@ -1,4 +1,4 @@
-# Version 2 of Bimage by @now420 on github, saqqwd on discord.
+# Version 2 (Python) of Bimage by @now420 on github, saqqwd on discord.
 from PIL import Image
 from math import ceil, sqrt
 
