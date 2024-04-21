@@ -18,6 +18,7 @@ def decode(image_file):
     text = text.replace("ÿ", "")
 
     return text
-
+    
+# Usage
 decoded_text = decode("bw_image.png")
 print("Decoded Text:", decoded_text)
